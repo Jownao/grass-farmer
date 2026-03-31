@@ -21,3 +21,4 @@
 [2026-03-31 18:08:12] (1/7) docs: add inline comments
 [2026-03-31 18:08:12] (2/7) refactor: rename variables for clarity
 [2026-03-31 18:08:12] (3/7) fix: resolve edge case in input handling
+[2026-03-31 18:08:12] (4/7) fix: handle null values properly

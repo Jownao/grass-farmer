@@ -24,3 +24,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-03-31 18:08:12` — docs: add inline comments
 - `2026-03-31 18:08:12` — refactor: rename variables for clarity
 - `2026-03-31 18:08:12` — fix: resolve edge case in input handling
+- `2026-03-31 18:08:12` — fix: handle null values properly
