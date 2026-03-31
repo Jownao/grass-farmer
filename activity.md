@@ -28,3 +28,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-03-31 18:08:12` — fix: resolve edge case in input handling
 - `2026-03-31 18:08:12` — docs: update README with new details
 - `2026-03-31 18:08:12` — perf: cache repeated lookups
+- `2026-03-31 22:21:24` — chore: remove dead code
