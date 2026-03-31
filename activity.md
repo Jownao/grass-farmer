@@ -20,3 +20,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-03-31 14:10:52` — perf: optimize performance
 - `2026-03-31 14:10:52` — refactor: improve code readability
 - `2026-03-31 14:10:52` — fix: handle null values properly
+- `2026-03-31 14:10:52` — docs: clarify function purpose
