@@ -10,3 +10,4 @@
 [2026-03-31 00:38:09] (2/2) docs: update README with new details
 [2026-03-31 14:10:52] (1/10) docs: improve documentation clarity
 [2026-03-31 14:10:52] (2/10) docs: update changelog
+[2026-03-31 14:10:52] (3/10) chore: update .gitignore
