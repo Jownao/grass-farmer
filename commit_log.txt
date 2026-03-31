@@ -24,3 +24,4 @@
 [2026-03-31 18:08:12] (4/7) fix: handle null values properly
 [2026-03-31 18:08:12] (5/7) fix: resolve edge case in input handling
 [2026-03-31 18:08:12] (6/7) docs: update README with new details
+[2026-03-31 18:08:12] (7/7) perf: cache repeated lookups
