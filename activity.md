@@ -30,3 +30,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-03-31 18:08:12` — perf: cache repeated lookups
 - `2026-03-31 22:21:24` — chore: remove dead code
 - `2026-03-31 22:21:24` — style: format code according to style guide
+- `2026-04-01 14:12:48` — docs: improve documentation clarity
