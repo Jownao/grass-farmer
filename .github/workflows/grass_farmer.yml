@@ -4,8 +4,6 @@ on:
   schedule:
     # Runs 3x a day at varied times (UTC — subtract 3h for BRT)
     - cron: '37 12 * * *'   # 09:37 BRT
-    - cron: '15 17 * * *'   # 14:15 BRT
-    - cron: '52 21 * * *'   # 18:52 BRT
   workflow_dispatch:         # Allows manual trigger from GitHub UI
 
 jobs:
