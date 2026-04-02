@@ -36,3 +36,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-02 14:05:30` — style: format code according to style guide
 - `2026-04-02 14:05:30` — docs: update changelog
 - `2026-04-02 14:05:30` — fix: minor bug fixes and improvements
+- `2026-04-02 14:05:30` — fix: correct off-by-one error
