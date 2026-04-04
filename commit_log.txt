@@ -44,3 +44,4 @@
 [2026-04-04 13:37:09] (2/5) refactor: extract helper functions
 [2026-04-04 13:37:09] (3/5) refactor: improve code readability
 [2026-04-04 13:37:09] (4/5) refactor: extract helper functions
+[2026-04-04 13:37:09] (5/5) docs: add inline comments
