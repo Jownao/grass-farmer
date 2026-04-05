@@ -46,3 +46,4 @@
 [2026-04-04 13:37:09] (4/5) refactor: extract helper functions
 [2026-04-04 13:37:09] (5/5) docs: add inline comments
 [2026-04-05 13:38:52] (1/2) docs: update changelog
+[2026-04-05 13:38:52] (2/2) fix: resolve edge case in input handling

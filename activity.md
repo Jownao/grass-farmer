@@ -49,3 +49,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-04 13:37:09` — refactor: extract helper functions
 - `2026-04-04 13:37:09` — docs: add inline comments
 - `2026-04-05 13:38:52` — docs: update changelog
+- `2026-04-05 13:38:52` — fix: resolve edge case in input handling
