@@ -51,3 +51,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-05 13:38:52` — docs: update changelog
 - `2026-04-05 13:38:52` — fix: resolve edge case in input handling
 - `2026-04-06 13:53:57` — chore: update dependencies
+- `2026-04-06 13:53:57` — perf: reduce unnecessary computations
