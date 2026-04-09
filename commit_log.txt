@@ -57,3 +57,4 @@
 [2026-04-07 14:10:24] (6/7) docs: clarify function purpose
 [2026-04-07 14:10:24] (7/7) chore: update .gitignore
 [2026-04-08 14:11:45] (1/1) docs: update changelog
+[2026-04-09 14:23:26] (1/3) refactor: extract helper functions
