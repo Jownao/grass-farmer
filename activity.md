@@ -77,3 +77,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-12 13:43:56` — docs: improve documentation clarity
 - `2026-04-12 13:43:56` — fix: handle null values properly
 - `2026-04-12 13:43:56` — style: align code with conventions
+- `2026-04-12 13:43:56` — docs: clarify function purpose
