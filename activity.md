@@ -80,3 +80,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-12 13:43:56` — docs: clarify function purpose
 - `2026-04-12 13:43:56` — chore: cleanup unused variables
 - `2026-04-12 13:43:56` — chore: cleanup unused variables
+- `2026-04-12 13:43:56` — fix: handle null values properly
