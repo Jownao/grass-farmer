@@ -87,3 +87,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-13 14:16:33` — fix: minor bug fixes and improvements
 - `2026-04-13 14:16:33` — style: align code with conventions
 - `2026-04-13 14:16:33` — refactor: improve code readability
+- `2026-04-13 14:16:33` — fix: correct off-by-one error
