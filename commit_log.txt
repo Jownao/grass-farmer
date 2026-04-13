@@ -82,3 +82,4 @@
 [2026-04-13 14:16:33] (1/8) docs: clarify function purpose
 [2026-04-13 14:16:33] (2/8) chore: update dependencies
 [2026-04-13 14:16:33] (3/8) fix: minor bug fixes and improvements
+[2026-04-13 14:16:33] (4/8) style: align code with conventions

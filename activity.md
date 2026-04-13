@@ -85,3 +85,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-13 14:16:33` — docs: clarify function purpose
 - `2026-04-13 14:16:33` — chore: update dependencies
 - `2026-04-13 14:16:33` — fix: minor bug fixes and improvements
+- `2026-04-13 14:16:33` — style: align code with conventions
