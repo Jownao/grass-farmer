@@ -90,3 +90,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-13 14:16:33` — fix: correct off-by-one error
 - `2026-04-13 14:16:33` — chore: update dependencies
 - `2026-04-13 14:16:33` — chore: cleanup unused variables
+- `2026-04-14 14:21:02` — docs: clarify function purpose
