@@ -91,3 +91,4 @@
 [2026-04-14 14:21:02] (2/3) fix: minor bug fixes and improvements
 [2026-04-14 14:21:02] (3/3) fix: resolve edge case in input handling
 [2026-04-15 14:12:54] (1/5) chore: routine maintenance
+[2026-04-15 14:12:54] (2/5) refactor: extract helper functions

@@ -94,3 +94,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-14 14:21:02` — fix: minor bug fixes and improvements
 - `2026-04-14 14:21:02` — fix: resolve edge case in input handling
 - `2026-04-15 14:12:54` — chore: routine maintenance
+- `2026-04-15 14:12:54` — refactor: extract helper functions
