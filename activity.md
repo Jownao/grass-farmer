@@ -96,3 +96,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-15 14:12:54` — chore: routine maintenance
 - `2026-04-15 14:12:54` — refactor: extract helper functions
 - `2026-04-15 14:12:54` — chore: cleanup unused variables
+- `2026-04-15 14:12:54` — chore: update .gitignore
