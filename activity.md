@@ -111,3 +111,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-17 14:05:11` — docs: improve documentation clarity
 - `2026-04-17 14:05:11` — docs: clarify function purpose
 - `2026-04-17 14:05:11` — chore: routine maintenance
+- `2026-04-17 14:05:11` — chore: reorganize file structure
