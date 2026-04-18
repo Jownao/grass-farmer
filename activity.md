@@ -116,3 +116,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-17 14:05:11` — chore: update .gitignore
 - `2026-04-18 13:45:19` — docs: clarify function purpose
 - `2026-04-18 13:45:19` — style: consistent spacing and indentation
+- `2026-04-18 13:45:19` — perf: cache repeated lookups
