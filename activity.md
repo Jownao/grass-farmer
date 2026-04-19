@@ -122,3 +122,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-19 13:43:29` — refactor: improve code readability
 - `2026-04-19 13:43:29` — style: format code according to style guide
 - `2026-04-19 13:43:29` — docs: update README with new details
+- `2026-04-19 13:43:29` — perf: cache repeated lookups
