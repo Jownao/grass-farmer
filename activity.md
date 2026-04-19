@@ -119,3 +119,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-18 13:45:19` — perf: cache repeated lookups
 - `2026-04-19 13:43:29` — docs: update README with new details
 - `2026-04-19 13:43:29` — docs: add inline comments
+- `2026-04-19 13:43:29` — refactor: improve code readability
