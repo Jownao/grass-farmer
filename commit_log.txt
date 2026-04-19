@@ -120,3 +120,4 @@
 [2026-04-19 13:43:29] (4/7) style: format code according to style guide
 [2026-04-19 13:43:29] (5/7) docs: update README with new details
 [2026-04-19 13:43:29] (6/7) perf: cache repeated lookups
+[2026-04-19 13:43:29] (7/7) docs: update changelog
