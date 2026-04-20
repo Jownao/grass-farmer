@@ -121,3 +121,4 @@
 [2026-04-19 13:43:29] (5/7) docs: update README with new details
 [2026-04-19 13:43:29] (6/7) perf: cache repeated lookups
 [2026-04-19 13:43:29] (7/7) docs: update changelog
+[2026-04-20 14:21:51] (1/1) fix: handle null values properly
