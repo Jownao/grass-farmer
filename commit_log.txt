@@ -125,3 +125,4 @@
 [2026-04-21 14:17:39] (1/5) docs: update changelog
 [2026-04-21 14:17:39] (2/5) docs: update README with new details
 [2026-04-21 14:17:39] (3/5) style: format code according to style guide
+[2026-04-21 14:17:39] (4/5) refactor: rename variables for clarity
