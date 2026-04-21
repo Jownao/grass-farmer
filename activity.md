@@ -126,3 +126,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-19 13:43:29` — docs: update changelog
 - `2026-04-20 14:21:51` — fix: handle null values properly
 - `2026-04-21 14:17:39` — docs: update changelog
+- `2026-04-21 14:17:39` — docs: update README with new details
