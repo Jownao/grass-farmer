@@ -130,3 +130,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-21 14:17:39` — style: format code according to style guide
 - `2026-04-21 14:17:39` — refactor: rename variables for clarity
 - `2026-04-21 14:17:39` — docs: update README with new details
+- `2026-04-22 14:17:51` — chore: reorganize file structure
