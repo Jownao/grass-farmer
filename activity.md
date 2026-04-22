@@ -132,3 +132,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-21 14:17:39` — docs: update README with new details
 - `2026-04-22 14:17:51` — chore: reorganize file structure
 - `2026-04-22 14:17:51` — fix: handle null values properly
+- `2026-04-22 14:17:51` — docs: clarify function purpose
