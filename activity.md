@@ -137,3 +137,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-23 14:21:36` — perf: cache repeated lookups
 - `2026-04-23 14:21:36` — fix: handle null values properly
 - `2026-04-23 14:21:36` — refactor: extract helper functions
+- `2026-04-23 14:21:36` — fix: handle null values properly
