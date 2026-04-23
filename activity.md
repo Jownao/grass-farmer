@@ -135,3 +135,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-22 14:17:51` — docs: clarify function purpose
 - `2026-04-23 14:21:36` — chore: reorganize file structure
 - `2026-04-23 14:21:36` — perf: cache repeated lookups
+- `2026-04-23 14:21:36` — fix: handle null values properly
