@@ -133,3 +133,4 @@
 [2026-04-23 14:21:36] (1/7) chore: reorganize file structure
 [2026-04-23 14:21:36] (2/7) perf: cache repeated lookups
 [2026-04-23 14:21:36] (3/7) fix: handle null values properly
+[2026-04-23 14:21:36] (4/7) refactor: extract helper functions
