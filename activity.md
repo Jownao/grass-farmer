@@ -141,3 +141,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-23 14:21:36` — style: align code with conventions
 - `2026-04-23 14:21:36` — perf: reduce unnecessary computations
 - `2026-04-24 14:15:19` — docs: update README with new details
+- `2026-04-24 14:15:19` — fix: handle null values properly
