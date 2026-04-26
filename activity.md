@@ -144,3 +144,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-24 14:15:19` — fix: handle null values properly
 - `2026-04-25 13:47:40` — chore: update dependencies
 - `2026-04-25 13:47:40` — chore: update dependencies
+- `2026-04-26 13:49:25` — fix: correct off-by-one error

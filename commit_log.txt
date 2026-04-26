@@ -141,3 +141,4 @@
 [2026-04-24 14:15:19] (2/2) fix: handle null values properly
 [2026-04-25 13:47:40] (1/2) chore: update dependencies
 [2026-04-25 13:47:40] (2/2) chore: update dependencies
+[2026-04-26 13:49:25] (1/2) fix: correct off-by-one error
