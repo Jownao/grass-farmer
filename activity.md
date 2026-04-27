@@ -146,3 +146,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-25 13:47:40` — chore: update dependencies
 - `2026-04-26 13:49:25` — fix: correct off-by-one error
 - `2026-04-26 13:49:25` — refactor: rename variables for clarity
+- `2026-04-27 14:36:18` — docs: update README with new details
