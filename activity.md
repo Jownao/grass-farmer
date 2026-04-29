@@ -160,3 +160,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-29 14:55:13` — refactor: simplify logic
 - `2026-04-29 14:55:13` — perf: optimize performance
 - `2026-04-29 14:55:13` — style: format code according to style guide
+- `2026-04-29 14:55:13` — docs: update README with new details

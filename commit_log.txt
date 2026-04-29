@@ -157,3 +157,4 @@
 [2026-04-29 14:55:13] (5/9) refactor: simplify logic
 [2026-04-29 14:55:13] (6/9) perf: optimize performance
 [2026-04-29 14:55:13] (7/9) style: format code according to style guide
+[2026-04-29 14:55:13] (8/9) docs: update README with new details
