@@ -151,3 +151,4 @@
 [2026-04-28 15:07:47] (5/6) refactor: rename variables for clarity
 [2026-04-28 15:07:47] (6/6) docs: clarify function purpose
 [2026-04-29 14:55:13] (1/9) refactor: rename variables for clarity
+[2026-04-29 14:55:13] (2/9) chore: reorganize file structure
