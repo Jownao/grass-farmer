@@ -164,3 +164,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-04-29 14:55:13` — refactor: improve code readability
 - `2026-04-30 14:36:22` — docs: update changelog
 - `2026-04-30 14:36:22` — chore: remove dead code
+- `2026-04-30 14:36:22` — perf: reduce unnecessary computations
