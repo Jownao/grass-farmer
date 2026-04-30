@@ -160,3 +160,4 @@
 [2026-04-29 14:55:13] (8/9) docs: update README with new details
 [2026-04-29 14:55:13] (9/9) refactor: improve code readability
 [2026-04-30 14:36:22] (1/5) docs: update changelog
+[2026-04-30 14:36:22] (2/5) chore: remove dead code
