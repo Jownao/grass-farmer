@@ -172,3 +172,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-05-01 14:02:57` — refactor: simplify logic
 - `2026-05-01 14:02:57` — perf: cache repeated lookups
 - `2026-05-01 14:02:57` — refactor: simplify logic
+- `2026-05-01 14:02:57` — fix: handle null values properly
