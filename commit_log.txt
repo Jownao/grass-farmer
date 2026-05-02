@@ -170,3 +170,4 @@
 [2026-05-01 14:02:57] (4/6) perf: cache repeated lookups
 [2026-05-01 14:02:57] (5/6) refactor: simplify logic
 [2026-05-01 14:02:57] (6/6) fix: handle null values properly
+[2026-05-02 13:55:26] (1/1) fix: correct off-by-one error
