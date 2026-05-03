@@ -173,3 +173,4 @@
 [2026-05-02 13:55:26] (1/1) fix: correct off-by-one error
 [2026-05-03 13:55:45] (1/7) chore: update .gitignore
 [2026-05-03 13:55:45] (2/7) docs: improve documentation clarity
+[2026-05-03 13:55:45] (3/7) fix: handle null values properly
