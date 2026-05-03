@@ -174,3 +174,4 @@
 [2026-05-03 13:55:45] (1/7) chore: update .gitignore
 [2026-05-03 13:55:45] (2/7) docs: improve documentation clarity
 [2026-05-03 13:55:45] (3/7) fix: handle null values properly
+[2026-05-03 13:55:45] (4/7) docs: improve documentation clarity
