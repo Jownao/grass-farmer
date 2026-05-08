@@ -197,3 +197,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-05-08 14:24:58` — chore: routine maintenance
 - `2026-05-08 14:24:58` — perf: cache repeated lookups
 - `2026-05-08 14:24:58` — perf: optimize performance
+- `2026-05-08 14:24:58` — chore: update .gitignore
