@@ -211,3 +211,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-05-11 15:46:13` — refactor: rename variables for clarity
 - `2026-05-11 15:46:13` — docs: add inline comments
 - `2026-05-11 15:46:13` — refactor: extract helper functions
+- `2026-05-11 15:46:13` — fix: resolve edge case in input handling
