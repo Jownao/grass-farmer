@@ -218,3 +218,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-05-13 15:28:53` — docs: improve documentation clarity
 - `2026-05-13 15:28:53` — docs: update README with new details
 - `2026-05-13 15:28:53` — chore: routine maintenance
+- `2026-05-13 15:28:53` — docs: add inline comments
