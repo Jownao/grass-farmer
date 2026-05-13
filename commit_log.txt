@@ -219,3 +219,4 @@
 [2026-05-13 15:28:53] (5/8) perf: optimize performance
 [2026-05-13 15:28:53] (6/8) chore: update .gitignore
 [2026-05-13 15:28:53] (7/8) style: format code according to style guide
+[2026-05-13 15:28:53] (8/8) fix: correct off-by-one error

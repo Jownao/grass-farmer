@@ -222,3 +222,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-05-13 15:28:53` — perf: optimize performance
 - `2026-05-13 15:28:53` — chore: update .gitignore
 - `2026-05-13 15:28:53` — style: format code according to style guide
+- `2026-05-13 15:28:53` — fix: correct off-by-one error
