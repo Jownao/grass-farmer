@@ -233,3 +233,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-05-16 14:06:52` — refactor: simplify logic
 - `2026-05-16 14:06:52` — refactor: improve code readability
 - `2026-05-16 14:06:52` — perf: optimize performance
+- `2026-05-16 14:06:52` — fix: resolve edge case in input handling
