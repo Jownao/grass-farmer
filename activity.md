@@ -235,3 +235,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-05-16 14:06:52` — perf: optimize performance
 - `2026-05-16 14:06:52` — fix: resolve edge case in input handling
 - `2026-05-16 14:06:52` — style: align code with conventions
+- `2026-05-16 14:06:52` — fix: handle null values properly
