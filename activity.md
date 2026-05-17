@@ -238,3 +238,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-05-16 14:06:52` — fix: handle null values properly
 - `2026-05-16 14:06:52` — perf: cache repeated lookups
 - `2026-05-17 14:07:14` — chore: routine maintenance
+- `2026-05-17 14:07:14` — fix: correct off-by-one error
