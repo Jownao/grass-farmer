@@ -238,3 +238,4 @@
 [2026-05-17 14:07:14] (2/3) fix: correct off-by-one error
 [2026-05-17 14:07:14] (3/3) perf: cache repeated lookups
 [2026-05-18 16:04:40] (1/9) chore: remove dead code
+[2026-05-18 16:04:40] (2/9) fix: resolve edge case in input handling
