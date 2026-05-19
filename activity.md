@@ -249,3 +249,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-05-18 16:04:40` — fix: resolve edge case in input handling
 - `2026-05-18 16:04:40` — docs: improve documentation clarity
 - `2026-05-18 16:04:40` — chore: update dependencies
+- `2026-05-19 16:01:02` — perf: cache repeated lookups
