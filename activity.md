@@ -251,3 +251,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-05-18 16:04:40` — chore: update dependencies
 - `2026-05-19 16:01:02` — perf: cache repeated lookups
 - `2026-05-20 16:08:33` — docs: update changelog
+- `2026-05-20 16:08:33` — refactor: simplify logic
