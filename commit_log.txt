@@ -247,3 +247,4 @@
 [2026-05-18 16:04:40] (8/9) docs: improve documentation clarity
 [2026-05-18 16:04:40] (9/9) chore: update dependencies
 [2026-05-19 16:01:02] (1/1) perf: cache repeated lookups
+[2026-05-20 16:08:33] (1/2) docs: update changelog
