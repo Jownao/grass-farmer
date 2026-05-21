@@ -249,3 +249,4 @@
 [2026-05-19 16:01:02] (1/1) perf: cache repeated lookups
 [2026-05-20 16:08:33] (1/2) docs: update changelog
 [2026-05-20 16:08:33] (2/2) refactor: simplify logic
+[2026-05-21 15:59:23] (1/2) chore: update .gitignore
