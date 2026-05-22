@@ -251,3 +251,4 @@
 [2026-05-20 16:08:33] (2/2) refactor: simplify logic
 [2026-05-21 15:59:23] (1/2) chore: update .gitignore
 [2026-05-21 15:59:23] (2/2) docs: update README with new details
+[2026-05-22 15:37:50] (1/1) perf: cache repeated lookups
