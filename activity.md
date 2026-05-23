@@ -255,3 +255,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-05-21 15:59:23` — chore: update .gitignore
 - `2026-05-21 15:59:23` — docs: update README with new details
 - `2026-05-22 15:37:50` — perf: cache repeated lookups
+- `2026-05-23 14:11:05` — docs: improve documentation clarity
