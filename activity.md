@@ -264,3 +264,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-05-24 14:09:23` — docs: update README with new details
 - `2026-05-25 15:38:52` — fix: minor bug fixes and improvements
 - `2026-05-25 15:38:52` — fix: minor bug fixes and improvements
+- `2026-05-25 15:38:52` — chore: remove dead code
