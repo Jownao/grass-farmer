@@ -262,3 +262,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-05-23 14:11:05` — docs: improve documentation clarity
 - `2026-05-23 14:11:05` — fix: correct off-by-one error
 - `2026-05-24 14:09:23` — docs: update README with new details
+- `2026-05-25 15:38:52` — fix: minor bug fixes and improvements
