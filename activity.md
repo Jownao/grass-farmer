@@ -268,3 +268,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-05-26 16:28:59` — refactor: improve code readability
 - `2026-05-27 16:25:49` — docs: improve documentation clarity
 - `2026-05-27 16:25:49` — style: align code with conventions
+- `2026-05-27 16:25:49` — fix: handle null values properly
