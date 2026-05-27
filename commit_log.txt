@@ -264,3 +264,4 @@
 [2026-05-25 15:38:52] (3/3) chore: remove dead code
 [2026-05-26 16:28:59] (1/1) refactor: improve code readability
 [2026-05-27 16:25:49] (1/4) docs: improve documentation clarity
+[2026-05-27 16:25:49] (2/4) style: align code with conventions
