@@ -274,3 +274,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-05-28 16:39:55` — docs: improve documentation clarity
 - `2026-05-28 16:39:55` — fix: resolve edge case in input handling
 - `2026-05-28 16:39:55` — perf: reduce unnecessary computations
+- `2026-05-28 16:39:55` — chore: reorganize file structure
