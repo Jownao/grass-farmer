@@ -271,3 +271,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-05-27 16:25:49` — fix: handle null values properly
 - `2026-05-27 16:25:49` — perf: reduce unnecessary computations
 - `2026-05-28 16:39:55` — fix: minor bug fixes and improvements
+- `2026-05-28 16:39:55` — docs: improve documentation clarity

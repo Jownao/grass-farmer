@@ -268,3 +268,4 @@
 [2026-05-27 16:25:49] (3/4) fix: handle null values properly
 [2026-05-27 16:25:49] (4/4) perf: reduce unnecessary computations
 [2026-05-28 16:39:55] (1/6) fix: minor bug fixes and improvements
+[2026-05-28 16:39:55] (2/6) docs: improve documentation clarity
