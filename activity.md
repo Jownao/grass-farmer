@@ -279,3 +279,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-05-29 16:25:39` — chore: update dependencies
 - `2026-05-29 16:25:39` — fix: handle null values properly
 - `2026-05-29 16:25:39` — perf: optimize performance
+- `2026-05-29 16:25:39` — docs: update README with new details
