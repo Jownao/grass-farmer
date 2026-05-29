@@ -275,3 +275,4 @@
 [2026-05-28 16:39:55] (6/6) style: consistent spacing and indentation
 [2026-05-29 16:25:39] (1/5) chore: update dependencies
 [2026-05-29 16:25:39] (2/5) fix: handle null values properly
+[2026-05-29 16:25:39] (3/5) perf: optimize performance
