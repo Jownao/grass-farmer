@@ -277,3 +277,4 @@
 [2026-05-29 16:25:39] (2/5) fix: handle null values properly
 [2026-05-29 16:25:39] (3/5) perf: optimize performance
 [2026-05-29 16:25:39] (4/5) docs: update README with new details
+[2026-05-29 16:25:39] (5/5) docs: add inline comments
