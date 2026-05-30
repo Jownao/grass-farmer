@@ -281,3 +281,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-05-29 16:25:39` — perf: optimize performance
 - `2026-05-29 16:25:39` — docs: update README with new details
 - `2026-05-29 16:25:39` — docs: add inline comments
+- `2026-05-30 14:16:25` — perf: cache repeated lookups
