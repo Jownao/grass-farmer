@@ -279,3 +279,4 @@
 [2026-05-29 16:25:39] (4/5) docs: update README with new details
 [2026-05-29 16:25:39] (5/5) docs: add inline comments
 [2026-05-30 14:16:25] (1/3) perf: cache repeated lookups
+[2026-05-30 14:16:25] (2/3) fix: resolve edge case in input handling
