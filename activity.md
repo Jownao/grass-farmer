@@ -287,3 +287,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-05-31 14:20:31` — fix: handle null values properly
 - `2026-05-31 14:20:31` — chore: reorganize file structure
 - `2026-05-31 14:20:31` — fix: handle null values properly
+- `2026-05-31 14:20:31` — docs: improve documentation clarity
