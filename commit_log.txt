@@ -282,3 +282,4 @@
 [2026-05-30 14:16:25] (2/3) fix: resolve edge case in input handling
 [2026-05-30 14:16:25] (3/3) refactor: improve code readability
 [2026-05-31 14:20:31] (1/5) fix: handle null values properly
+[2026-05-31 14:20:31] (2/5) chore: reorganize file structure
