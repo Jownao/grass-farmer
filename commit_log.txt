@@ -286,3 +286,4 @@
 [2026-05-31 14:20:31] (3/5) fix: handle null values properly
 [2026-05-31 14:20:31] (4/5) docs: improve documentation clarity
 [2026-05-31 14:20:31] (5/5) perf: reduce unnecessary computations
+[2026-06-01 18:24:41] (1/1) style: align code with conventions
