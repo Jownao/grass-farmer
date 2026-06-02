@@ -290,3 +290,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-05-31 14:20:31` — docs: improve documentation clarity
 - `2026-05-31 14:20:31` — perf: reduce unnecessary computations
 - `2026-06-01 18:24:41` — style: align code with conventions
+- `2026-06-02 17:05:08` — docs: update changelog
