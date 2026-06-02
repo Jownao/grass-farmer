@@ -289,3 +289,4 @@
 [2026-06-01 18:24:41] (1/1) style: align code with conventions
 [2026-06-02 17:05:08] (1/4) docs: update changelog
 [2026-06-02 17:05:08] (2/4) fix: resolve edge case in input handling
+[2026-06-02 17:05:08] (3/4) chore: update dependencies
