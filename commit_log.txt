@@ -291,3 +291,4 @@
 [2026-06-02 17:05:08] (2/4) fix: resolve edge case in input handling
 [2026-06-02 17:05:08] (3/4) chore: update dependencies
 [2026-06-02 17:05:08] (4/4) chore: update dependencies
+[2026-06-03 17:32:16] (1/9) docs: clarify function purpose
