@@ -302,3 +302,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-06-03 17:32:16` — chore: update .gitignore
 - `2026-06-03 17:32:16` — docs: update changelog
 - `2026-06-03 17:32:16` — chore: reorganize file structure
+- `2026-06-03 17:32:16` — style: align code with conventions
