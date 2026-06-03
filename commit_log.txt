@@ -298,3 +298,4 @@
 [2026-06-03 17:32:16] (5/9) style: consistent spacing and indentation
 [2026-06-03 17:32:16] (6/9) chore: update .gitignore
 [2026-06-03 17:32:16] (7/9) docs: update changelog
+[2026-06-03 17:32:16] (8/9) chore: reorganize file structure
