@@ -293,3 +293,4 @@
 [2026-06-02 17:05:08] (4/4) chore: update dependencies
 [2026-06-03 17:32:16] (1/9) docs: clarify function purpose
 [2026-06-03 17:32:16] (2/9) chore: update .gitignore
+[2026-06-03 17:32:16] (3/9) docs: update README with new details
