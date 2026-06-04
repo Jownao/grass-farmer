@@ -300,3 +300,4 @@
 [2026-06-03 17:32:16] (7/9) docs: update changelog
 [2026-06-03 17:32:16] (8/9) chore: reorganize file structure
 [2026-06-03 17:32:16] (9/9) style: align code with conventions
+[2026-06-04 16:02:23] (1/2) docs: add inline comments
