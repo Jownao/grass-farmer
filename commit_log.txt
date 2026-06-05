@@ -307,3 +307,4 @@
 [2026-06-05 15:37:37] (3/8) refactor: improve code readability
 [2026-06-05 15:37:37] (4/8) docs: update changelog
 [2026-06-05 15:37:37] (5/8) docs: update changelog
+[2026-06-05 15:37:37] (6/8) docs: update changelog
