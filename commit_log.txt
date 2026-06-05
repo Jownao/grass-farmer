@@ -303,3 +303,4 @@
 [2026-06-04 16:02:23] (1/2) docs: add inline comments
 [2026-06-04 16:02:23] (2/2) chore: update dependencies
 [2026-06-05 15:37:37] (1/8) docs: improve documentation clarity
+[2026-06-05 15:37:37] (2/8) perf: reduce unnecessary computations
