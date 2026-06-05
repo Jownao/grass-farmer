@@ -305,3 +305,4 @@
 [2026-06-05 15:37:37] (1/8) docs: improve documentation clarity
 [2026-06-05 15:37:37] (2/8) perf: reduce unnecessary computations
 [2026-06-05 15:37:37] (3/8) refactor: improve code readability
+[2026-06-05 15:37:37] (4/8) docs: update changelog
