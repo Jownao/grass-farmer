@@ -308,3 +308,4 @@
 [2026-06-05 15:37:37] (4/8) docs: update changelog
 [2026-06-05 15:37:37] (5/8) docs: update changelog
 [2026-06-05 15:37:37] (6/8) docs: update changelog
+[2026-06-05 15:37:37] (7/8) perf: optimize performance
