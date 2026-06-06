@@ -320,3 +320,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-06-06 14:18:06` — docs: improve documentation clarity
 - `2026-06-06 14:18:06` — chore: update dependencies
 - `2026-06-06 14:18:06` — fix: minor bug fixes and improvements
+- `2026-06-06 14:18:06` — docs: add inline comments
