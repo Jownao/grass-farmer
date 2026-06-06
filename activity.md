@@ -314,3 +314,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-06-05 15:37:37` — perf: optimize performance
 - `2026-06-05 15:37:37` — chore: cleanup unused variables
 - `2026-06-06 14:18:06` — docs: update README with new details
+- `2026-06-06 14:18:06` — refactor: simplify logic
