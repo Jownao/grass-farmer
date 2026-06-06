@@ -313,3 +313,4 @@
 [2026-06-06 14:18:06] (1/8) docs: update README with new details
 [2026-06-06 14:18:06] (2/8) refactor: simplify logic
 [2026-06-06 14:18:06] (3/8) chore: reorganize file structure
+[2026-06-06 14:18:06] (4/8) refactor: extract helper functions
