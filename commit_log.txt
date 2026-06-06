@@ -316,3 +316,4 @@
 [2026-06-06 14:18:06] (4/8) refactor: extract helper functions
 [2026-06-06 14:18:06] (5/8) docs: improve documentation clarity
 [2026-06-06 14:18:06] (6/8) chore: update dependencies
+[2026-06-06 14:18:06] (7/8) fix: minor bug fixes and improvements
