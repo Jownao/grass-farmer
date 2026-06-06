@@ -317,3 +317,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-06-06 14:18:06` — refactor: simplify logic
 - `2026-06-06 14:18:06` — chore: reorganize file structure
 - `2026-06-06 14:18:06` — refactor: extract helper functions
+- `2026-06-06 14:18:06` — docs: improve documentation clarity
