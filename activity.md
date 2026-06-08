@@ -327,3 +327,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-06-07 14:30:56` — chore: update dependencies
 - `2026-06-08 16:37:29` — refactor: rename variables for clarity
 - `2026-06-08 16:37:29` — fix: resolve edge case in input handling
+- `2026-06-08 16:37:29` — style: align code with conventions

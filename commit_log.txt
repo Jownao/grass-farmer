@@ -324,3 +324,4 @@
 [2026-06-07 14:30:56] (4/4) chore: update dependencies
 [2026-06-08 16:37:29] (1/12) refactor: rename variables for clarity
 [2026-06-08 16:37:29] (2/12) fix: resolve edge case in input handling
+[2026-06-08 16:37:29] (3/12) style: align code with conventions
