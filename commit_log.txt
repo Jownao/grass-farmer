@@ -331,3 +331,4 @@
 [2026-06-08 16:37:30] (7/12) refactor: extract helper functions
 [2026-06-08 16:37:30] (8/12) chore: routine maintenance
 [2026-06-08 16:37:30] (9/12) docs: clarify function purpose
+[2026-06-08 16:37:30] (10/12) docs: clarify function purpose
