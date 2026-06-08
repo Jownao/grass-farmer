@@ -331,3 +331,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-06-08 16:37:30` — chore: cleanup unused variables
 - `2026-06-08 16:37:30` — fix: minor bug fixes and improvements
 - `2026-06-08 16:37:30` — docs: improve documentation clarity
+- `2026-06-08 16:37:30` — refactor: extract helper functions
