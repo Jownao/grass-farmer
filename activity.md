@@ -341,3 +341,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-06-10 16:24:04` — chore: update dependencies
 - `2026-06-11 16:38:39` — docs: clarify function purpose
 - `2026-06-12 15:49:38` — style: format code according to style guide
+- `2026-06-12 15:49:38` — fix: correct off-by-one error
