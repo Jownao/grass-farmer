@@ -343,3 +343,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-06-12 15:49:38` — style: format code according to style guide
 - `2026-06-12 15:49:38` — fix: correct off-by-one error
 - `2026-06-12 15:49:38` — refactor: improve code readability
+- `2026-06-13 14:39:58` — docs: update README with new details
