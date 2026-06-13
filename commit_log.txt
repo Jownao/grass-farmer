@@ -341,3 +341,4 @@
 [2026-06-12 15:49:38] (2/3) fix: correct off-by-one error
 [2026-06-12 15:49:38] (3/3) refactor: improve code readability
 [2026-06-13 14:39:58] (1/2) docs: update README with new details
+[2026-06-13 14:39:58] (2/2) style: align code with conventions
