@@ -353,3 +353,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-06-15 17:33:37` — chore: reorganize file structure
 - `2026-06-15 17:33:37` — perf: cache repeated lookups
 - `2026-06-15 17:33:37` — perf: optimize performance
+- `2026-06-15 17:33:37` — docs: clarify function purpose
