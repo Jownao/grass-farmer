@@ -354,3 +354,4 @@
 [2026-06-15 17:33:37] (5/12) docs: add inline comments
 [2026-06-15 17:33:37] (6/12) style: align code with conventions
 [2026-06-15 17:33:37] (7/12) perf: reduce unnecessary computations
+[2026-06-15 17:33:37] (8/12) chore: remove dead code
