@@ -352,3 +352,4 @@
 [2026-06-15 17:33:37] (3/12) perf: optimize performance
 [2026-06-15 17:33:37] (4/12) docs: clarify function purpose
 [2026-06-15 17:33:37] (5/12) docs: add inline comments
+[2026-06-15 17:33:37] (6/12) style: align code with conventions
