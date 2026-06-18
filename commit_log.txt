@@ -372,3 +372,4 @@
 [2026-06-18 16:02:26] (4/7) perf: cache repeated lookups
 [2026-06-18 16:02:27] (5/7) perf: cache repeated lookups
 [2026-06-18 16:02:27] (6/7) refactor: rename variables for clarity
+[2026-06-18 16:02:27] (7/7) fix: correct off-by-one error
