@@ -382,3 +382,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-06-19 15:51:02` — chore: remove dead code
 - `2026-06-19 15:51:02` — chore: remove dead code
 - `2026-06-19 15:51:02` — refactor: simplify logic
+- `2026-06-19 15:51:02` — chore: update .gitignore

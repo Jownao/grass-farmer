@@ -379,3 +379,4 @@
 [2026-06-19 15:51:02] (4/7) chore: remove dead code
 [2026-06-19 15:51:02] (5/7) chore: remove dead code
 [2026-06-19 15:51:02] (6/7) refactor: simplify logic
+[2026-06-19 15:51:02] (7/7) chore: update .gitignore
