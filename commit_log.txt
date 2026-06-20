@@ -381,3 +381,4 @@
 [2026-06-19 15:51:02] (6/7) refactor: simplify logic
 [2026-06-19 15:51:02] (7/7) chore: update .gitignore
 [2026-06-20 14:54:43] (1/7) chore: cleanup unused variables
+[2026-06-20 14:54:43] (2/7) refactor: extract helper functions
