@@ -385,3 +385,4 @@
 [2026-06-20 14:54:43] (3/7) chore: update .gitignore
 [2026-06-20 14:54:43] (4/7) perf: reduce unnecessary computations
 [2026-06-20 14:54:43] (5/7) perf: cache repeated lookups
+[2026-06-20 14:54:43] (6/7) chore: cleanup unused variables
