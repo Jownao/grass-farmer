@@ -392,3 +392,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-06-20 14:54:43` — refactor: extract helper functions
 - `2026-06-21 14:58:53` — perf: optimize performance
 - `2026-06-22 17:16:50` — fix: resolve edge case in input handling
+- `2026-06-22 17:16:50` — docs: update README with new details
