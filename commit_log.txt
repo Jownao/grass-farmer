@@ -390,3 +390,4 @@
 [2026-06-21 14:58:53] (1/1) perf: optimize performance
 [2026-06-22 17:16:50] (1/2) fix: resolve edge case in input handling
 [2026-06-22 17:16:50] (2/2) docs: update README with new details
+[2026-06-23 15:40:20] (1/1) fix: correct off-by-one error
