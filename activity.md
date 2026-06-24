@@ -395,3 +395,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-06-22 17:16:50` — docs: update README with new details
 - `2026-06-23 15:40:20` — fix: correct off-by-one error
 - `2026-06-24 15:20:52` — style: format code according to style guide
+- `2026-06-24 15:20:52` — fix: minor bug fixes and improvements
