@@ -397,3 +397,4 @@
 [2026-06-24 15:20:52] (4/5) docs: update README with new details
 [2026-06-24 15:20:52] (5/5) docs: update README with new details
 [2026-06-25 15:30:01] (1/3) refactor: improve code readability
+[2026-06-25 15:30:01] (2/3) fix: handle null values properly
