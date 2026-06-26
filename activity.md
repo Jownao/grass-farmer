@@ -406,3 +406,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-06-26 15:13:45` — perf: optimize performance
 - `2026-06-26 15:13:45` — refactor: rename variables for clarity
 - `2026-06-26 15:13:45` — docs: add inline comments
+- `2026-06-26 15:13:45` — fix: handle null values properly
