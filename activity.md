@@ -403,3 +403,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-06-25 15:30:01` — fix: handle null values properly
 - `2026-06-25 15:30:01` — docs: update changelog
 - `2026-06-26 15:13:45` — refactor: simplify logic
+- `2026-06-26 15:13:45` — perf: optimize performance
