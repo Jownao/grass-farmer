@@ -410,3 +410,4 @@
 [2026-06-27 14:15:00] (2/2) perf: optimize performance
 [2026-06-28 14:25:12] (1/5) fix: handle null values properly
 [2026-06-28 14:25:12] (2/5) style: format code according to style guide
+[2026-06-28 14:25:12] (3/5) docs: clarify function purpose

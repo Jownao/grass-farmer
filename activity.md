@@ -413,3 +413,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-06-27 14:15:00` — perf: optimize performance
 - `2026-06-28 14:25:12` — fix: handle null values properly
 - `2026-06-28 14:25:12` — style: format code according to style guide
+- `2026-06-28 14:25:12` — docs: clarify function purpose
