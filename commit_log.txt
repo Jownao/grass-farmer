@@ -436,3 +436,4 @@
 [2026-07-03 14:55:31] (3/11) perf: cache repeated lookups
 [2026-07-03 14:55:31] (4/11) fix: handle null values properly
 [2026-07-03 14:55:31] (5/11) docs: update README with new details
+[2026-07-03 14:55:31] (6/11) perf: optimize performance
