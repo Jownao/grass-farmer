@@ -434,3 +434,4 @@
 [2026-07-03 14:55:31] (1/11) chore: update .gitignore
 [2026-07-03 14:55:31] (2/11) style: align code with conventions
 [2026-07-03 14:55:31] (3/11) perf: cache repeated lookups
+[2026-07-03 14:55:31] (4/11) fix: handle null values properly

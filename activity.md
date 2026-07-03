@@ -437,3 +437,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-07-03 14:55:31` — chore: update .gitignore
 - `2026-07-03 14:55:31` — style: align code with conventions
 - `2026-07-03 14:55:31` — perf: cache repeated lookups
+- `2026-07-03 14:55:31` — fix: handle null values properly
