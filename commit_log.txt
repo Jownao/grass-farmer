@@ -440,3 +440,4 @@
 [2026-07-03 14:55:31] (7/11) perf: cache repeated lookups
 [2026-07-03 14:55:31] (8/11) docs: update changelog
 [2026-07-03 14:55:31] (9/11) chore: reorganize file structure
+[2026-07-03 14:55:31] (10/11) docs: add inline comments

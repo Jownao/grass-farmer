@@ -443,3 +443,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-07-03 14:55:31` — perf: cache repeated lookups
 - `2026-07-03 14:55:31` — docs: update changelog
 - `2026-07-03 14:55:31` — chore: reorganize file structure
+- `2026-07-03 14:55:31` — docs: add inline comments
