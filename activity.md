@@ -441,3 +441,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-07-03 14:55:31` — docs: update README with new details
 - `2026-07-03 14:55:31` — perf: optimize performance
 - `2026-07-03 14:55:31` — perf: cache repeated lookups
+- `2026-07-03 14:55:31` — docs: update changelog

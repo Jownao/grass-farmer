@@ -438,3 +438,4 @@
 [2026-07-03 14:55:31] (5/11) docs: update README with new details
 [2026-07-03 14:55:31] (6/11) perf: optimize performance
 [2026-07-03 14:55:31] (7/11) perf: cache repeated lookups
+[2026-07-03 14:55:31] (8/11) docs: update changelog
