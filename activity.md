@@ -448,3 +448,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-07-04 14:10:46` — style: format code according to style guide
 - `2026-07-05 14:18:32` — docs: update changelog
 - `2026-07-05 14:18:32` — chore: cleanup unused variables
+- `2026-07-05 14:18:32` — refactor: simplify logic
