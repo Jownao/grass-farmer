@@ -451,3 +451,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-07-05 14:18:32` — refactor: simplify logic
 - `2026-07-05 14:18:32` — docs: update changelog
 - `2026-07-05 14:18:32` — chore: update dependencies
+- `2026-07-06 16:03:18` — fix: handle null values properly
