@@ -460,3 +460,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-07-09 15:43:33` — chore: cleanup unused variables
 - `2026-07-10 15:16:10` — refactor: simplify logic
 - `2026-07-10 15:16:10` — docs: update changelog
+- `2026-07-11 14:05:30` — docs: update README with new details
