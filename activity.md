@@ -464,3 +464,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-07-11 14:05:30` — perf: cache repeated lookups
 - `2026-07-11 14:05:30` — docs: update changelog
 - `2026-07-11 14:05:30` — chore: update .gitignore
+- `2026-07-12 14:08:53` — fix: resolve edge case in input handling
