@@ -468,3 +468,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-07-12 14:08:53` — docs: clarify function purpose
 - `2026-07-13 15:31:12` — fix: minor bug fixes and improvements
 - `2026-07-13 15:31:12` — chore: routine maintenance
+- `2026-07-13 15:31:12` — refactor: simplify logic
