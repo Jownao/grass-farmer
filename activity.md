@@ -475,3 +475,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-07-15 14:23:13` — docs: clarify function purpose
 - `2026-07-15 14:23:13` — refactor: extract helper functions
 - `2026-07-15 14:23:13` — refactor: simplify logic
+- `2026-07-15 14:23:14` — docs: add inline comments

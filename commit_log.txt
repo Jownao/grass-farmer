@@ -472,3 +472,4 @@
 [2026-07-15 14:23:13] (1/5) docs: clarify function purpose
 [2026-07-15 14:23:13] (2/5) refactor: extract helper functions
 [2026-07-15 14:23:13] (3/5) refactor: simplify logic
+[2026-07-15 14:23:14] (4/5) docs: add inline comments
