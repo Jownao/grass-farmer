@@ -474,3 +474,4 @@
 [2026-07-15 14:23:13] (3/5) refactor: simplify logic
 [2026-07-15 14:23:14] (4/5) docs: add inline comments
 [2026-07-15 14:23:14] (5/5) style: align code with conventions
+[2026-07-16 14:35:19] (1/4) docs: update README with new details
