@@ -479,3 +479,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-07-15 14:23:14` — style: align code with conventions
 - `2026-07-16 14:35:19` — docs: update README with new details
 - `2026-07-16 14:35:19` — fix: correct off-by-one error
+- `2026-07-16 14:35:19` — docs: update README with new details
