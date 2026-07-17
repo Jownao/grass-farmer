@@ -479,3 +479,4 @@
 [2026-07-16 14:35:19] (3/4) docs: update README with new details
 [2026-07-16 14:35:19] (4/4) chore: update dependencies
 [2026-07-17 14:14:03] (1/2) perf: cache repeated lookups
+[2026-07-17 14:14:03] (2/2) chore: cleanup unused variables
