@@ -481,3 +481,4 @@
 [2026-07-17 14:14:03] (1/2) perf: cache repeated lookups
 [2026-07-17 14:14:03] (2/2) chore: cleanup unused variables
 [2026-07-18 14:02:13] (1/5) refactor: simplify logic
+[2026-07-18 14:02:13] (2/5) docs: update README with new details
