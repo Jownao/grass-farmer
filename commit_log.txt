@@ -484,3 +484,4 @@
 [2026-07-18 14:02:13] (2/5) docs: update README with new details
 [2026-07-18 14:02:13] (3/5) chore: update .gitignore
 [2026-07-18 14:02:13] (4/5) perf: reduce unnecessary computations
+[2026-07-18 14:02:13] (5/5) perf: cache repeated lookups

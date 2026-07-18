@@ -487,3 +487,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-07-18 14:02:13` — docs: update README with new details
 - `2026-07-18 14:02:13` — chore: update .gitignore
 - `2026-07-18 14:02:13` — perf: reduce unnecessary computations
+- `2026-07-18 14:02:13` — perf: cache repeated lookups
