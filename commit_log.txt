@@ -498,3 +498,4 @@
 [2026-07-22 14:36:11] (1/3) style: consistent spacing and indentation
 [2026-07-22 14:36:11] (2/3) perf: optimize performance
 [2026-07-22 14:36:11] (3/3) chore: update .gitignore
+[2026-07-23 14:51:38] (1/4) docs: clarify function purpose
