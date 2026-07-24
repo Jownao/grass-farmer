@@ -507,3 +507,4 @@
 [2026-07-24 14:22:25] (3/10) perf: optimize performance
 [2026-07-24 14:22:25] (4/10) docs: improve documentation clarity
 [2026-07-24 14:22:25] (5/10) chore: routine maintenance
+[2026-07-24 14:22:25] (6/10) fix: handle null values properly
