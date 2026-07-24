@@ -507,3 +507,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-07-23 14:51:38` — style: align code with conventions
 - `2026-07-24 14:22:25` — fix: handle null values properly
 - `2026-07-24 14:22:25` — fix: correct off-by-one error
+- `2026-07-24 14:22:25` — perf: optimize performance
