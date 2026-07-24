@@ -511,3 +511,4 @@
 [2026-07-24 14:22:25] (7/10) perf: reduce unnecessary computations
 [2026-07-24 14:22:25] (8/10) chore: routine maintenance
 [2026-07-24 14:22:25] (9/10) fix: minor bug fixes and improvements
+[2026-07-24 14:22:25] (10/10) fix: correct off-by-one error
