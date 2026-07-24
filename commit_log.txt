@@ -505,3 +505,4 @@
 [2026-07-24 14:22:25] (1/10) fix: handle null values properly
 [2026-07-24 14:22:25] (2/10) fix: correct off-by-one error
 [2026-07-24 14:22:25] (3/10) perf: optimize performance
+[2026-07-24 14:22:25] (4/10) docs: improve documentation clarity
