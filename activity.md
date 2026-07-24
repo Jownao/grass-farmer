@@ -505,3 +505,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-07-23 14:51:38` — style: consistent spacing and indentation
 - `2026-07-23 14:51:38` — refactor: improve code readability
 - `2026-07-23 14:51:38` — style: align code with conventions
+- `2026-07-24 14:22:25` — fix: handle null values properly
