@@ -519,3 +519,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-07-25 14:12:46` — docs: add inline comments
 - `2026-07-25 14:12:46` — chore: cleanup unused variables
 - `2026-07-25 14:12:46` — fix: correct off-by-one error
+- `2026-07-25 14:12:46` — perf: cache repeated lookups
