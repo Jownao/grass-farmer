@@ -519,3 +519,4 @@
 [2026-07-25 14:12:46] (5/9) perf: cache repeated lookups
 [2026-07-25 14:12:46] (6/9) docs: update changelog
 [2026-07-25 14:12:46] (7/9) refactor: rename variables for clarity
+[2026-07-25 14:12:47] (8/9) style: consistent spacing and indentation

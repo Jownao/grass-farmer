@@ -522,3 +522,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-07-25 14:12:46` — perf: cache repeated lookups
 - `2026-07-25 14:12:46` — docs: update changelog
 - `2026-07-25 14:12:46` — refactor: rename variables for clarity
+- `2026-07-25 14:12:47` — style: consistent spacing and indentation
