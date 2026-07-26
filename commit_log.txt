@@ -524,3 +524,4 @@
 [2026-07-26 14:11:19] (1/4) chore: reorganize file structure
 [2026-07-26 14:11:19] (2/4) style: consistent spacing and indentation
 [2026-07-26 14:11:19] (3/4) chore: update .gitignore
+[2026-07-26 14:11:19] (4/4) fix: correct off-by-one error
