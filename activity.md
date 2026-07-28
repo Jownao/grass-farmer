@@ -537,3 +537,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-07-28 15:02:20` — refactor: improve code readability
 - `2026-07-28 15:02:20` — style: format code according to style guide
 - `2026-07-28 15:02:20` — refactor: improve code readability
+- `2026-07-28 15:02:20` — docs: update README with new details

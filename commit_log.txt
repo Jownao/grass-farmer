@@ -534,3 +534,4 @@
 [2026-07-28 15:02:20] (3/9) refactor: improve code readability
 [2026-07-28 15:02:20] (4/9) style: format code according to style guide
 [2026-07-28 15:02:20] (5/9) refactor: improve code readability
+[2026-07-28 15:02:20] (6/9) docs: update README with new details
