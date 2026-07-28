@@ -529,3 +529,4 @@
 [2026-07-27 15:25:55] (2/4) chore: update .gitignore
 [2026-07-27 15:25:55] (3/4) perf: reduce unnecessary computations
 [2026-07-27 15:25:55] (4/4) docs: update README with new details
+[2026-07-28 15:02:20] (1/9) refactor: extract helper functions
