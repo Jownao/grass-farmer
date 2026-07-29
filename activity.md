@@ -544,3 +544,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-07-29 14:55:32` — style: format code according to style guide
 - `2026-07-29 14:55:32` — fix: handle null values properly
 - `2026-07-29 14:55:32` — fix: correct off-by-one error
+- `2026-07-29 14:55:32` — fix: resolve edge case in input handling
