@@ -548,3 +548,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-07-29 14:55:32` — perf: reduce unnecessary computations
 - `2026-07-29 14:55:32` — chore: reorganize file structure
 - `2026-07-30 14:52:25` — docs: improve documentation clarity
+- `2026-07-30 14:52:25` — perf: cache repeated lookups
