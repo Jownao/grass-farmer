@@ -556,3 +556,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-07-30 14:52:25` — perf: reduce unnecessary computations
 - `2026-07-30 14:52:25` — refactor: extract helper functions
 - `2026-07-31 15:04:38` — refactor: rename variables for clarity
+- `2026-07-31 15:04:38` — docs: update README with new details

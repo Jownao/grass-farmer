@@ -553,3 +553,4 @@
 [2026-07-30 14:52:25] (7/8) perf: reduce unnecessary computations
 [2026-07-30 14:52:25] (8/8) refactor: extract helper functions
 [2026-07-31 15:04:38] (1/2) refactor: rename variables for clarity
+[2026-07-31 15:04:38] (2/2) docs: update README with new details
