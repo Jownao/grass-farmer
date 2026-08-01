@@ -557,3 +557,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-07-30 14:52:25` — refactor: extract helper functions
 - `2026-07-31 15:04:38` — refactor: rename variables for clarity
 - `2026-07-31 15:04:38` — docs: update README with new details
+- `2026-08-01 14:08:23` — fix: handle null values properly
