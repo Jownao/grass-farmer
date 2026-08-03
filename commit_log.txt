@@ -566,3 +566,4 @@
 [2026-08-03 15:27:08] (7/11) style: format code according to style guide
 [2026-08-03 15:27:08] (8/11) docs: improve documentation clarity
 [2026-08-03 15:27:08] (9/11) docs: improve documentation clarity
+[2026-08-03 15:27:08] (10/11) fix: handle null values properly
