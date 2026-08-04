@@ -572,3 +572,4 @@
 [2026-08-04 15:05:34] (2/6) style: align code with conventions
 [2026-08-04 15:05:34] (3/6) refactor: simplify logic
 [2026-08-04 15:05:34] (4/6) perf: reduce unnecessary computations
+[2026-08-04 15:05:34] (5/6) docs: add inline comments
