@@ -577,3 +577,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-08-04 15:05:34` — perf: reduce unnecessary computations
 - `2026-08-04 15:05:34` — docs: add inline comments
 - `2026-08-04 15:05:34` — perf: reduce unnecessary computations
+- `2026-08-05 14:58:31` — fix: correct off-by-one error
