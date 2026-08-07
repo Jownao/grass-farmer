@@ -586,3 +586,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-08-06 14:57:14` — chore: update .gitignore
 - `2026-08-07 13:53:41` — docs: update changelog
 - `2026-08-07 13:53:41` — refactor: simplify logic
+- `2026-08-07 13:53:41` — fix: correct off-by-one error

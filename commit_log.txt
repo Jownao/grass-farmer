@@ -583,3 +583,4 @@
 [2026-08-06 14:57:14] (4/4) chore: update .gitignore
 [2026-08-07 13:53:41] (1/4) docs: update changelog
 [2026-08-07 13:53:41] (2/4) refactor: simplify logic
+[2026-08-07 13:53:41] (3/4) fix: correct off-by-one error
