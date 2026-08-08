@@ -589,3 +589,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-08-07 13:53:41` — fix: correct off-by-one error
 - `2026-08-07 13:53:41` — fix: handle null values properly
 - `2026-08-08 13:28:50` — fix: minor bug fixes and improvements
+- `2026-08-08 13:28:50` — refactor: extract helper functions
