@@ -585,3 +585,4 @@
 [2026-08-07 13:53:41] (2/4) refactor: simplify logic
 [2026-08-07 13:53:41] (3/4) fix: correct off-by-one error
 [2026-08-07 13:53:41] (4/4) fix: handle null values properly
+[2026-08-08 13:28:50] (1/2) fix: minor bug fixes and improvements
