@@ -590,3 +590,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-08-07 13:53:41` — fix: handle null values properly
 - `2026-08-08 13:28:50` — fix: minor bug fixes and improvements
 - `2026-08-08 13:28:50` — refactor: extract helper functions
+- `2026-08-09 13:33:05` — style: consistent spacing and indentation
