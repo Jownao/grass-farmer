@@ -592,3 +592,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-08-08 13:28:50` — refactor: extract helper functions
 - `2026-08-09 13:33:05` — style: consistent spacing and indentation
 - `2026-08-09 13:33:05` — refactor: rename variables for clarity
+- `2026-08-09 13:33:05` — docs: update README with new details
