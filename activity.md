@@ -607,3 +607,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-08-11 14:01:40` — docs: clarify function purpose
 - `2026-08-11 14:01:40` — docs: clarify function purpose
 - `2026-08-12 14:02:14` — style: format code according to style guide
+- `2026-08-12 14:02:14` — fix: handle null values properly
