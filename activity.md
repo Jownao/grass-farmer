@@ -625,3 +625,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-08-15 13:10:28` — docs: add inline comments
 - `2026-08-15 13:10:28` — docs: update changelog
 - `2026-08-15 13:10:28` — refactor: improve code readability
+- `2026-08-16 13:14:32` — chore: remove dead code
