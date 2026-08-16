@@ -626,3 +626,4 @@
 [2026-08-16 13:14:32] (2/8) refactor: extract helper functions
 [2026-08-16 13:14:32] (3/8) chore: routine maintenance
 [2026-08-16 13:14:32] (4/8) chore: routine maintenance
+[2026-08-16 13:14:32] (5/8) fix: resolve edge case in input handling
