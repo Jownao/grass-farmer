@@ -635,3 +635,4 @@
 [2026-08-17 13:23:17] (3/6) perf: optimize performance
 [2026-08-17 13:23:17] (4/6) docs: update changelog
 [2026-08-17 13:23:17] (5/6) perf: reduce unnecessary computations
+[2026-08-17 13:23:17] (6/6) chore: reorganize file structure
