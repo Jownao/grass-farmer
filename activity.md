@@ -636,3 +636,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-08-17 13:23:17` — refactor: improve code readability
 - `2026-08-17 13:23:17` — chore: routine maintenance
 - `2026-08-17 13:23:17` — perf: optimize performance
+- `2026-08-17 13:23:17` — docs: update changelog
