@@ -641,3 +641,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-08-17 13:23:17` — chore: reorganize file structure
 - `2026-08-18 13:25:41` — docs: update README with new details
 - `2026-08-18 13:25:41` — refactor: rename variables for clarity
+- `2026-08-19 13:27:03` — perf: cache repeated lookups
