@@ -639,3 +639,4 @@
 [2026-08-18 13:25:41] (1/2) docs: update README with new details
 [2026-08-18 13:25:41] (2/2) refactor: rename variables for clarity
 [2026-08-19 13:27:03] (1/7) perf: cache repeated lookups
+[2026-08-19 13:27:03] (2/7) chore: cleanup unused variables
