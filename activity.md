@@ -650,3 +650,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-08-19 13:27:03` — chore: update .gitignore
 - `2026-08-20 13:29:23` — docs: add inline comments
 - `2026-08-21 13:28:04` — chore: routine maintenance
+- `2026-08-21 13:28:04` — fix: correct off-by-one error
