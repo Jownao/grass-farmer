@@ -657,3 +657,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-08-22 13:14:28` — perf: optimize performance
 - `2026-08-22 13:14:28` — refactor: extract helper functions
 - `2026-08-22 13:14:28` — refactor: simplify logic
+- `2026-08-22 13:14:28` — style: align code with conventions

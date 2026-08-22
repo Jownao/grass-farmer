@@ -654,3 +654,4 @@
 [2026-08-22 13:14:28] (1/9) perf: optimize performance
 [2026-08-22 13:14:28] (2/9) refactor: extract helper functions
 [2026-08-22 13:14:28] (3/9) refactor: simplify logic
+[2026-08-22 13:14:28] (4/9) style: align code with conventions
