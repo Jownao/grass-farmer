@@ -662,3 +662,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-08-22 13:14:28` — docs: update changelog
 - `2026-08-22 13:14:28` — perf: optimize performance
 - `2026-08-22 13:14:28` — perf: cache repeated lookups
+- `2026-08-22 13:14:28` — refactor: rename variables for clarity
