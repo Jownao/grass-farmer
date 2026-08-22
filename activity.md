@@ -660,3 +660,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-08-22 13:14:28` — style: align code with conventions
 - `2026-08-22 13:14:28` — docs: clarify function purpose
 - `2026-08-22 13:14:28` — docs: update changelog
+- `2026-08-22 13:14:28` — perf: optimize performance

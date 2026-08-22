@@ -657,3 +657,4 @@
 [2026-08-22 13:14:28] (4/9) style: align code with conventions
 [2026-08-22 13:14:28] (5/9) docs: clarify function purpose
 [2026-08-22 13:14:28] (6/9) docs: update changelog
+[2026-08-22 13:14:28] (7/9) perf: optimize performance
