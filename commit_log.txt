@@ -652,3 +652,4 @@
 [2026-08-21 13:28:04] (4/5) refactor: improve code readability
 [2026-08-21 13:28:04] (5/5) fix: resolve edge case in input handling
 [2026-08-22 13:14:28] (1/9) perf: optimize performance
+[2026-08-22 13:14:28] (2/9) refactor: extract helper functions
