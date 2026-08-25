@@ -670,3 +670,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-08-25 13:30:32` — fix: handle null values properly
 - `2026-08-25 13:30:32` — chore: reorganize file structure
 - `2026-08-25 13:30:32` — chore: update .gitignore
+- `2026-08-25 13:30:32` — perf: reduce unnecessary computations

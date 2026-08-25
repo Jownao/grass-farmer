@@ -667,3 +667,4 @@
 [2026-08-25 13:30:32] (2/5) fix: handle null values properly
 [2026-08-25 13:30:32] (3/5) chore: reorganize file structure
 [2026-08-25 13:30:32] (4/5) chore: update .gitignore
+[2026-08-25 13:30:32] (5/5) perf: reduce unnecessary computations
