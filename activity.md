@@ -666,3 +666,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-08-23 13:16:06` — refactor: extract helper functions
 - `2026-08-23 13:16:06` — perf: cache repeated lookups
 - `2026-08-24 13:32:46` — chore: update .gitignore
+- `2026-08-25 13:30:32` — refactor: rename variables for clarity
