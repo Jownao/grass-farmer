@@ -674,3 +674,4 @@
 [2026-08-26 13:36:17] (4/8) perf: optimize performance
 [2026-08-26 13:36:17] (5/8) refactor: extract helper functions
 [2026-08-26 13:36:17] (6/8) docs: update changelog
+[2026-08-26 13:36:17] (7/8) fix: handle null values properly
