@@ -679,3 +679,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-08-26 13:36:17` — docs: update changelog
 - `2026-08-26 13:36:17` — fix: handle null values properly
 - `2026-08-26 13:36:17` — docs: improve documentation clarity
+- `2026-08-27 22:32:27` — fix: minor bug fixes and improvements
