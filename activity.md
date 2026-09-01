@@ -697,3 +697,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-01 16:52:27` — refactor: simplify logic
 - `2026-09-01 16:52:27` — docs: update changelog
 - `2026-09-01 16:52:27` — chore: remove dead code
+- `2026-09-01 16:52:27` — fix: handle null values properly

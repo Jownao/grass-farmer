@@ -694,3 +694,4 @@
 [2026-09-01 16:52:27] (6/9) refactor: simplify logic
 [2026-09-01 16:52:27] (7/9) docs: update changelog
 [2026-09-01 16:52:27] (8/9) chore: remove dead code
+[2026-09-01 16:52:27] (9/9) fix: handle null values properly
