@@ -702,3 +702,4 @@
 [2026-09-03 16:38:52] (3/8) chore: cleanup unused variables
 [2026-09-03 16:38:52] (4/8) perf: cache repeated lookups
 [2026-09-03 16:38:52] (5/8) docs: clarify function purpose
+[2026-09-03 16:38:52] (6/8) docs: update README with new details
