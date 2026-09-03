@@ -704,3 +704,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-03 16:38:52` — chore: routine maintenance
 - `2026-09-03 16:38:52` — chore: cleanup unused variables
 - `2026-09-03 16:38:52` — perf: cache repeated lookups
+- `2026-09-03 16:38:52` — docs: clarify function purpose
