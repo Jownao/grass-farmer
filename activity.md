@@ -712,3 +712,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-04 16:34:07` — fix: minor bug fixes and improvements
 - `2026-09-04 16:34:07` — chore: update dependencies
 - `2026-09-04 16:34:07` — perf: cache repeated lookups
+- `2026-09-04 16:34:07` — fix: resolve edge case in input handling
