@@ -708,3 +708,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-03 16:38:52` — docs: update README with new details
 - `2026-09-03 16:38:52` — chore: update .gitignore
 - `2026-09-03 16:38:52` — refactor: improve code readability
+- `2026-09-04 16:34:07` — refactor: extract helper functions
