@@ -718,3 +718,4 @@
 [2026-09-05 15:29:36] (6/9) chore: update dependencies
 [2026-09-05 15:29:36] (7/9) chore: reorganize file structure
 [2026-09-05 15:29:36] (8/9) chore: cleanup unused variables
+[2026-09-05 15:29:36] (9/9) refactor: simplify logic
