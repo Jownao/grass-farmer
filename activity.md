@@ -717,3 +717,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-05 15:29:36` — docs: update changelog
 - `2026-09-05 15:29:36` — fix: correct off-by-one error
 - `2026-09-05 15:29:36` — chore: update dependencies
+- `2026-09-05 15:29:36` — chore: reorganize file structure
