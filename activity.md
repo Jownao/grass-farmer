@@ -714,3 +714,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-04 16:34:07` — perf: cache repeated lookups
 - `2026-09-04 16:34:07` — fix: resolve edge case in input handling
 - `2026-09-05 15:29:36` — docs: improve documentation clarity
+- `2026-09-05 15:29:36` — docs: update changelog
