@@ -725,3 +725,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-06 15:42:54` — style: format code according to style guide
 - `2026-09-06 15:42:54` — fix: handle null values properly
 - `2026-09-06 15:42:54` — perf: optimize performance
+- `2026-09-06 15:42:54` — docs: clarify function purpose

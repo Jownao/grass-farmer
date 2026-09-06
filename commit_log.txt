@@ -722,3 +722,4 @@
 [2026-09-06 15:42:54] (1/7) style: format code according to style guide
 [2026-09-06 15:42:54] (2/7) fix: handle null values properly
 [2026-09-06 15:42:54] (3/7) perf: optimize performance
+[2026-09-06 15:42:54] (4/7) docs: clarify function purpose
