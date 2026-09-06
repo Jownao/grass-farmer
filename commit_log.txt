@@ -723,3 +723,4 @@
 [2026-09-06 15:42:54] (2/7) fix: handle null values properly
 [2026-09-06 15:42:54] (3/7) perf: optimize performance
 [2026-09-06 15:42:54] (4/7) docs: clarify function purpose
+[2026-09-06 15:42:54] (5/7) docs: update README with new details
