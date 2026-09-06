@@ -720,3 +720,4 @@
 [2026-09-05 15:29:36] (8/9) chore: cleanup unused variables
 [2026-09-05 15:29:36] (9/9) refactor: simplify logic
 [2026-09-06 15:42:54] (1/7) style: format code according to style guide
+[2026-09-06 15:42:54] (2/7) fix: handle null values properly
