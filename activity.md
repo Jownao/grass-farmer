@@ -732,3 +732,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-07 17:52:52` — fix: minor bug fixes and improvements
 - `2026-09-07 17:52:52` — perf: cache repeated lookups
 - `2026-09-07 17:52:52` — chore: update dependencies
+- `2026-09-07 17:52:52` — fix: handle null values properly
