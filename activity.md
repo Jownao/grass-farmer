@@ -739,3 +739,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-07 17:52:52` — perf: reduce unnecessary computations
 - `2026-09-08 16:49:01` — fix: correct off-by-one error
 - `2026-09-08 16:49:01` — fix: handle null values properly
+- `2026-09-08 16:49:01` — refactor: simplify logic
