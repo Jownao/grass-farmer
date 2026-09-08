@@ -742,3 +742,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-08 16:49:01` — refactor: simplify logic
 - `2026-09-08 16:49:01` — perf: reduce unnecessary computations
 - `2026-09-08 16:49:01` — chore: update .gitignore
+- `2026-09-08 16:49:01` — refactor: extract helper functions
