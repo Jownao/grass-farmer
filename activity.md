@@ -744,3 +744,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-08 16:49:01` — chore: update .gitignore
 - `2026-09-08 16:49:01` — refactor: extract helper functions
 - `2026-09-09 16:51:51` — style: align code with conventions
+- `2026-09-09 16:51:51` — chore: remove dead code
