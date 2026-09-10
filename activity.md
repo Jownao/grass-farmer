@@ -748,3 +748,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-09 16:51:51` — docs: update README with new details
 - `2026-09-09 16:51:51` — style: format code according to style guide
 - `2026-09-09 16:51:51` — perf: cache repeated lookups
+- `2026-09-10 16:38:45` — refactor: simplify logic
