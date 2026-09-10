@@ -751,3 +751,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-10 16:38:45` — refactor: simplify logic
 - `2026-09-10 16:38:45` — refactor: improve code readability
 - `2026-09-10 16:38:45` — style: consistent spacing and indentation
+- `2026-09-10 16:38:45` — fix: correct off-by-one error
