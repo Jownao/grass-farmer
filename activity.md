@@ -753,3 +753,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-10 16:38:45` — style: consistent spacing and indentation
 - `2026-09-10 16:38:45` — fix: correct off-by-one error
 - `2026-09-10 16:38:45` — docs: add inline comments
+- `2026-09-10 16:38:45` — docs: update README with new details
