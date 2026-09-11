@@ -753,3 +753,4 @@
 [2026-09-10 16:38:45] (6/6) docs: update README with new details
 [2026-09-11 16:43:38] (1/6) docs: update README with new details
 [2026-09-11 16:43:38] (2/6) style: consistent spacing and indentation
+[2026-09-11 16:43:38] (3/6) docs: improve documentation clarity

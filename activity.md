@@ -756,3 +756,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-10 16:38:45` — docs: update README with new details
 - `2026-09-11 16:43:38` — docs: update README with new details
 - `2026-09-11 16:43:38` — style: consistent spacing and indentation
+- `2026-09-11 16:43:38` — docs: improve documentation clarity
