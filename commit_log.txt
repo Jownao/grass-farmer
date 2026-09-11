@@ -755,3 +755,4 @@
 [2026-09-11 16:43:38] (2/6) style: consistent spacing and indentation
 [2026-09-11 16:43:38] (3/6) docs: improve documentation clarity
 [2026-09-11 16:43:38] (4/6) chore: routine maintenance
+[2026-09-11 16:43:38] (5/6) refactor: extract helper functions
