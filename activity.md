@@ -771,3 +771,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-14 18:09:18` — perf: reduce unnecessary computations
 - `2026-09-14 18:09:18` — docs: add inline comments
 - `2026-09-14 18:09:18` — perf: reduce unnecessary computations
+- `2026-09-14 18:09:18` — refactor: extract helper functions
