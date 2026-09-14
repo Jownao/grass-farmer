@@ -764,3 +764,4 @@
 [2026-09-13 16:35:18] (3/3) docs: improve documentation clarity
 [2026-09-14 18:09:18] (1/7) docs: clarify function purpose
 [2026-09-14 18:09:18] (2/7) fix: minor bug fixes and improvements
+[2026-09-14 18:09:18] (3/7) perf: reduce unnecessary computations
