@@ -766,3 +766,4 @@
 [2026-09-14 18:09:18] (2/7) fix: minor bug fixes and improvements
 [2026-09-14 18:09:18] (3/7) perf: reduce unnecessary computations
 [2026-09-14 18:09:18] (4/7) perf: reduce unnecessary computations
+[2026-09-14 18:09:18] (5/7) docs: add inline comments
