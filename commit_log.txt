@@ -772,3 +772,4 @@
 [2026-09-15 17:13:58] (1/6) docs: add inline comments
 [2026-09-15 17:13:58] (2/6) refactor: rename variables for clarity
 [2026-09-15 17:13:58] (3/6) refactor: simplify logic
+[2026-09-15 17:13:58] (4/6) chore: remove dead code
