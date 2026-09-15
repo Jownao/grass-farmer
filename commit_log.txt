@@ -774,3 +774,4 @@
 [2026-09-15 17:13:58] (3/6) refactor: simplify logic
 [2026-09-15 17:13:58] (4/6) chore: remove dead code
 [2026-09-15 17:13:58] (5/6) fix: handle null values properly
+[2026-09-15 17:13:58] (6/6) fix: handle null values properly
