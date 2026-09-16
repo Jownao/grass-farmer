@@ -779,3 +779,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-15 17:13:58` — fix: handle null values properly
 - `2026-09-15 17:13:58` — fix: handle null values properly
 - `2026-09-16 17:14:54` — docs: improve documentation clarity
+- `2026-09-16 17:14:54` — docs: update README with new details
