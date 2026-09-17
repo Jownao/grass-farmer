@@ -781,3 +781,4 @@
 [2026-09-16 17:14:54] (4/4) chore: routine maintenance
 [2026-09-17 17:13:46] (1/5) chore: reorganize file structure
 [2026-09-17 17:13:46] (2/5) chore: update .gitignore
+[2026-09-17 17:13:46] (3/5) chore: remove dead code
