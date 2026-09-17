@@ -782,3 +782,4 @@
 [2026-09-17 17:13:46] (1/5) chore: reorganize file structure
 [2026-09-17 17:13:46] (2/5) chore: update .gitignore
 [2026-09-17 17:13:46] (3/5) chore: remove dead code
+[2026-09-17 17:13:46] (4/5) refactor: extract helper functions
