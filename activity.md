@@ -790,3 +790,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-18 16:40:52` — chore: routine maintenance
 - `2026-09-18 16:40:52` — refactor: rename variables for clarity
 - `2026-09-19 16:01:26` — chore: update dependencies
+- `2026-09-19 16:01:26` — perf: cache repeated lookups
