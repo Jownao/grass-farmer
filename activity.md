@@ -793,3 +793,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-19 16:01:26` — perf: cache repeated lookups
 - `2026-09-19 16:01:26` — chore: remove dead code
 - `2026-09-20 16:26:33` — fix: correct off-by-one error
+- `2026-09-20 16:26:33` — perf: cache repeated lookups
