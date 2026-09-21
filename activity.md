@@ -797,3 +797,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-20 16:26:33` — perf: reduce unnecessary computations
 - `2026-09-21 18:17:45` — refactor: rename variables for clarity
 - `2026-09-21 18:17:45` — refactor: rename variables for clarity
+- `2026-09-21 18:17:45` — fix: handle null values properly
