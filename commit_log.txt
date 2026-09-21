@@ -796,3 +796,4 @@
 [2026-09-21 18:17:45] (2/6) refactor: rename variables for clarity
 [2026-09-21 18:17:45] (3/6) fix: handle null values properly
 [2026-09-21 18:17:45] (4/6) chore: update .gitignore
+[2026-09-21 18:17:45] (5/6) fix: minor bug fixes and improvements
