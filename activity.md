@@ -806,3 +806,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-22 17:13:45` — perf: cache repeated lookups
 - `2026-09-22 17:13:45` — perf: cache repeated lookups
 - `2026-09-22 17:13:45` — refactor: simplify logic
+- `2026-09-22 17:13:45` — docs: clarify function purpose
