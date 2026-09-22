@@ -802,3 +802,4 @@
 [2026-09-22 17:13:45] (2/10) style: consistent spacing and indentation
 [2026-09-22 17:13:45] (3/10) perf: cache repeated lookups
 [2026-09-22 17:13:45] (4/10) perf: cache repeated lookups
+[2026-09-22 17:13:45] (5/10) refactor: simplify logic
