@@ -818,3 +818,4 @@
 [2026-09-25 17:30:02] (1/4) refactor: improve code readability
 [2026-09-25 17:30:02] (2/4) perf: reduce unnecessary computations
 [2026-09-25 17:30:02] (3/4) refactor: simplify logic
+[2026-09-25 17:30:02] (4/4) fix: correct off-by-one error
