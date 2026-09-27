@@ -831,3 +831,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-27 17:14:03` — chore: reorganize file structure
 - `2026-09-27 17:14:03` — docs: update README with new details
 - `2026-09-27 17:14:03` — chore: update .gitignore
+- `2026-09-27 17:14:04` — perf: cache repeated lookups
