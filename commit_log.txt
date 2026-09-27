@@ -829,3 +829,4 @@
 [2026-09-27 17:14:03] (2/9) docs: update README with new details
 [2026-09-27 17:14:03] (3/9) chore: update .gitignore
 [2026-09-27 17:14:04] (4/9) perf: cache repeated lookups
+[2026-09-27 17:14:04] (5/9) chore: update .gitignore
