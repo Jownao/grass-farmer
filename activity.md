@@ -835,3 +835,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-27 17:14:04` — chore: update .gitignore
 - `2026-09-27 17:14:04` — chore: update .gitignore
 - `2026-09-27 17:14:04` — chore: remove dead code
+- `2026-09-27 17:14:04` — refactor: simplify logic
