@@ -837,3 +837,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-27 17:14:04` — chore: remove dead code
 - `2026-09-27 17:14:04` — refactor: simplify logic
 - `2026-09-27 17:14:04` — style: consistent spacing and indentation
+- `2026-09-28 19:48:36` — fix: handle null values properly
