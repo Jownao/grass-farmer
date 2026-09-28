@@ -835,3 +835,4 @@
 [2026-09-27 17:14:04] (8/9) refactor: simplify logic
 [2026-09-27 17:14:04] (9/9) style: consistent spacing and indentation
 [2026-09-28 19:48:36] (1/2) fix: handle null values properly
+[2026-09-28 19:48:36] (2/2) refactor: simplify logic
