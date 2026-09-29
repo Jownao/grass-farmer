@@ -841,3 +841,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-28 19:48:36` — refactor: simplify logic
 - `2026-09-29 18:13:36` — fix: minor bug fixes and improvements
 - `2026-09-29 18:13:36` — fix: resolve edge case in input handling
+- `2026-09-29 18:13:36` — fix: correct off-by-one error
