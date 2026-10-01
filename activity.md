@@ -845,3 +845,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-09-29 18:13:36` — perf: optimize performance
 - `2026-09-30 18:06:09` — fix: resolve edge case in input handling
 - `2026-10-01 18:32:56` — fix: resolve edge case in input handling
+- `2026-10-01 18:32:56` — docs: improve documentation clarity
