@@ -847,3 +847,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-10-01 18:32:56` — fix: resolve edge case in input handling
 - `2026-10-01 18:32:56` — docs: improve documentation clarity
 - `2026-10-01 18:32:56` — refactor: rename variables for clarity
+- `2026-10-01 18:32:56` — docs: update changelog
