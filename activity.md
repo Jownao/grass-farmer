@@ -850,3 +850,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-10-01 18:32:56` — docs: update changelog
 - `2026-10-01 18:32:56` — chore: reorganize file structure
 - `2026-10-01 18:32:56` — fix: handle null values properly
+- `2026-10-02 17:59:54` — docs: update changelog
