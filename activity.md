@@ -852,3 +852,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-10-01 18:32:56` — fix: handle null values properly
 - `2026-10-02 17:59:54` — docs: update changelog
 - `2026-10-02 17:59:54` — perf: optimize performance
+- `2026-10-03 16:39:59` — docs: clarify function purpose

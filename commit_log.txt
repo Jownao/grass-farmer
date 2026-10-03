@@ -849,3 +849,4 @@
 [2026-10-01 18:32:56] (6/6) fix: handle null values properly
 [2026-10-02 17:59:54] (1/2) docs: update changelog
 [2026-10-02 17:59:54] (2/2) perf: optimize performance
+[2026-10-03 16:39:59] (1/5) docs: clarify function purpose
