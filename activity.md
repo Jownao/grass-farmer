@@ -859,3 +859,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-10-03 16:40:00` — chore: reorganize file structure
 - `2026-10-04 16:58:07` — docs: add inline comments
 - `2026-10-04 16:58:07` — chore: update dependencies
+- `2026-10-04 16:58:07` — fix: resolve edge case in input handling
