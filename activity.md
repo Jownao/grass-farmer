@@ -866,3 +866,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-10-04 16:58:07` — chore: update dependencies
 - `2026-10-04 16:58:07` — chore: routine maintenance
 - `2026-10-04 16:58:07` — fix: handle null values properly
+- `2026-10-06 18:34:29` — docs: clarify function purpose
