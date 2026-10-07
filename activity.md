@@ -873,3 +873,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-10-07 19:03:16` — fix: correct off-by-one error
 - `2026-10-07 19:03:16` — refactor: simplify logic
 - `2026-10-07 19:03:16` — refactor: extract helper functions
+- `2026-10-07 19:03:16` — chore: update .gitignore
