@@ -867,3 +867,4 @@
 [2026-10-06 18:34:29] (2/3) docs: add inline comments
 [2026-10-06 18:34:29] (3/3) refactor: improve code readability
 [2026-10-07 19:03:16] (1/6) chore: update dependencies
+[2026-10-07 19:03:16] (2/6) fix: correct off-by-one error
