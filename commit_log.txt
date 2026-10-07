@@ -869,3 +869,4 @@
 [2026-10-07 19:03:16] (1/6) chore: update dependencies
 [2026-10-07 19:03:16] (2/6) fix: correct off-by-one error
 [2026-10-07 19:03:16] (3/6) refactor: simplify logic
+[2026-10-07 19:03:16] (4/6) refactor: extract helper functions
