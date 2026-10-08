@@ -874,3 +874,4 @@
 [2026-10-07 19:03:16] (6/6) style: format code according to style guide
 [2026-10-08 18:59:06] (1/7) docs: clarify function purpose
 [2026-10-08 18:59:06] (2/7) docs: update README with new details
+[2026-10-08 18:59:06] (3/7) docs: add inline comments
