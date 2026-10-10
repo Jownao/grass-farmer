@@ -882,3 +882,4 @@
 [2026-10-09 18:29:02] (1/1) perf: optimize performance
 [2026-10-10 17:26:38] (1/5) docs: improve documentation clarity
 [2026-10-10 17:26:38] (2/5) chore: update dependencies
+[2026-10-10 17:26:38] (3/5) fix: correct off-by-one error
