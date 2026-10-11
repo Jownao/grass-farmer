@@ -888,3 +888,4 @@
 [2026-10-11 17:45:26] (1/4) chore: update .gitignore
 [2026-10-11 17:45:26] (2/4) docs: update changelog
 [2026-10-11 17:45:26] (3/4) chore: update .gitignore
+[2026-10-11 17:45:26] (4/4) fix: minor bug fixes and improvements
