@@ -892,3 +892,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-10-11 17:45:26` — docs: update changelog
 - `2026-10-11 17:45:26` — chore: update .gitignore
 - `2026-10-11 17:45:26` — fix: minor bug fixes and improvements
+- `2026-10-12 21:22:49` — chore: remove dead code
