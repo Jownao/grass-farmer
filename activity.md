@@ -900,3 +900,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-10-14 17:33:10` — style: consistent spacing and indentation
 - `2026-10-15 17:18:07` — perf: reduce unnecessary computations
 - `2026-10-15 17:18:07` — docs: clarify function purpose
+- `2026-10-15 17:18:07` — docs: improve documentation clarity
