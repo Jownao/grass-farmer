@@ -907,3 +907,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-10-16 16:53:49` — chore: update dependencies
 - `2026-10-16 16:53:49` — chore: routine maintenance
 - `2026-10-17 15:53:40` — docs: add inline comments
+- `2026-10-17 15:53:40` — fix: correct off-by-one error
