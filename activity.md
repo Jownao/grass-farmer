@@ -920,3 +920,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-10-18 16:06:07` — perf: optimize performance
 - `2026-10-18 16:06:07` — refactor: simplify logic
 - `2026-10-19 18:48:46` — refactor: simplify logic
+- `2026-10-19 18:48:46` — chore: remove dead code
