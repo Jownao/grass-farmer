@@ -927,3 +927,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-10-19 18:48:46` — refactor: simplify logic
 - `2026-10-20 17:28:24` — docs: clarify function purpose
 - `2026-10-20 17:28:24` — docs: update changelog
+- `2026-10-21 17:36:09` — docs: add inline comments
