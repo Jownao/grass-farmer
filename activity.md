@@ -954,3 +954,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-10-25 16:45:59` — chore: reorganize file structure
 - `2026-10-25 16:45:59` — style: align code with conventions
 - `2026-10-25 16:45:59` — perf: cache repeated lookups
+- `2026-10-25 16:45:59` — chore: remove dead code
