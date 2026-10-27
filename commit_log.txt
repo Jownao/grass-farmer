@@ -956,3 +956,4 @@
 [2026-10-26 18:50:01] (2/4) docs: clarify function purpose
 [2026-10-26 18:50:01] (3/4) style: format code according to style guide
 [2026-10-26 18:50:01] (4/4) chore: update .gitignore
+[2026-10-27 18:12:33] (1/6) chore: remove dead code
