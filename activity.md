@@ -976,3 +976,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-10-29 18:37:18` — fix: correct off-by-one error
 - `2026-10-30 18:09:39` — chore: reorganize file structure
 - `2026-10-30 18:09:40` — perf: cache repeated lookups
+- `2026-10-30 18:09:40` — fix: correct off-by-one error
