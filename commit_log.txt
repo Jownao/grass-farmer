@@ -981,3 +981,4 @@
 [2026-10-31 17:20:07] (2/9) docs: improve documentation clarity
 [2026-10-31 17:20:07] (3/9) docs: update changelog
 [2026-10-31 17:20:07] (4/9) perf: cache repeated lookups
+[2026-10-31 17:20:07] (5/9) chore: update .gitignore
