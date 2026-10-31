@@ -987,3 +987,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-10-31 17:20:07` — chore: update .gitignore
 - `2026-10-31 17:20:07` — style: align code with conventions
 - `2026-10-31 17:20:07` — refactor: improve code readability
+- `2026-10-31 17:20:07` — fix: resolve edge case in input handling
