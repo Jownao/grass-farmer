@@ -989,3 +989,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-10-31 17:20:07` — refactor: improve code readability
 - `2026-10-31 17:20:07` — fix: resolve edge case in input handling
 - `2026-10-31 17:20:07` — fix: handle null values properly
+- `2026-11-01 18:03:10` — refactor: extract helper functions
