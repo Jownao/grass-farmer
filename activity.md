@@ -1003,3 +1003,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-11-05 20:13:45` — fix: correct off-by-one error
 - `2026-11-05 20:13:45` — perf: reduce unnecessary computations
 - `2026-11-05 20:13:45` — fix: resolve edge case in input handling
+- `2026-11-06 19:39:03` — fix: correct off-by-one error
