@@ -1007,3 +1007,4 @@
 [2026-11-08 18:02:39] (1/6) perf: cache repeated lookups
 [2026-11-08 18:02:39] (2/6) chore: update .gitignore
 [2026-11-08 18:02:39] (3/6) chore: update .gitignore
+[2026-11-08 18:02:39] (4/6) refactor: extract helper functions
