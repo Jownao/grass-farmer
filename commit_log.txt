@@ -1019,3 +1019,4 @@
 [2026-11-10 19:58:07] (2/9) fix: minor bug fixes and improvements
 [2026-11-10 19:58:07] (3/9) docs: improve documentation clarity
 [2026-11-10 19:58:07] (4/9) perf: optimize performance
+[2026-11-10 19:58:07] (5/9) fix: correct off-by-one error
