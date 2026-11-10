@@ -1022,3 +1022,4 @@
 [2026-11-10 19:58:07] (5/9) fix: correct off-by-one error
 [2026-11-10 19:58:07] (6/9) refactor: improve code readability
 [2026-11-10 19:58:07] (7/9) docs: update changelog
+[2026-11-10 19:58:07] (8/9) chore: reorganize file structure
