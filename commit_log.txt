@@ -1028,3 +1028,4 @@
 [2026-11-11 19:49:31] (2/2) chore: update .gitignore
 [2026-11-12 20:22:33] (1/3) docs: update changelog
 [2026-11-12 20:22:33] (2/3) perf: cache repeated lookups
+[2026-11-12 20:22:33] (3/3) chore: update .gitignore
