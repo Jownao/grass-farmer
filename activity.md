@@ -1032,3 +1032,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-11-12 20:22:33` — docs: update changelog
 - `2026-11-12 20:22:33` — perf: cache repeated lookups
 - `2026-11-12 20:22:33` — chore: update .gitignore
+- `2026-11-13 19:58:39` — chore: remove dead code
