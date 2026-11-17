@@ -1047,3 +1047,4 @@
 [2026-11-16 22:27:58] (7/8) perf: cache repeated lookups
 [2026-11-16 22:27:58] (8/8) fix: resolve edge case in input handling
 [2026-11-17 21:16:32] (1/2) chore: remove dead code
+[2026-11-17 21:16:32] (2/2) fix: minor bug fixes and improvements
