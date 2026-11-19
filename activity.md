@@ -1055,3 +1055,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-11-19 20:55:57` — chore: reorganize file structure
 - `2026-11-19 20:55:57` — docs: clarify function purpose
 - `2026-11-19 20:55:57` — chore: reorganize file structure
+- `2026-11-19 20:55:57` — docs: update README with new details
