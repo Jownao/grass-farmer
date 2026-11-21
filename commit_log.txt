@@ -1064,3 +1064,4 @@
 [2026-11-21 19:43:32] (1/4) perf: optimize performance
 [2026-11-21 19:43:32] (2/4) fix: handle null values properly
 [2026-11-21 19:43:32] (3/4) style: format code according to style guide
+[2026-11-21 19:43:32] (4/4) refactor: simplify logic
