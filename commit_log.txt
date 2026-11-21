@@ -1062,3 +1062,4 @@
 [2026-11-20 20:41:00] (4/5) chore: reorganize file structure
 [2026-11-20 20:41:00] (5/5) chore: update .gitignore
 [2026-11-21 19:43:32] (1/4) perf: optimize performance
+[2026-11-21 19:43:32] (2/4) fix: handle null values properly
