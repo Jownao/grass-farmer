@@ -1074,3 +1074,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-11-22 19:56:09` — chore: reorganize file structure
 - `2026-11-22 19:56:09` — fix: correct off-by-one error
 - `2026-11-22 19:56:09` — chore: routine maintenance
+- `2026-11-22 19:56:09` — fix: handle null values properly
