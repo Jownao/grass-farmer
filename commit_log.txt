@@ -1079,3 +1079,4 @@
 [2026-11-25 21:56:43] (2/7) chore: remove dead code
 [2026-11-25 21:56:43] (3/7) docs: update changelog
 [2026-11-25 21:56:43] (4/7) chore: update .gitignore
+[2026-11-25 21:56:43] (5/7) perf: cache repeated lookups
