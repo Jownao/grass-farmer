@@ -1076,3 +1076,4 @@
 [2026-11-24 00:16:43] (1/1) style: consistent spacing and indentation
 [2026-11-24 22:43:11] (1/1) chore: cleanup unused variables
 [2026-11-25 21:56:43] (1/7) refactor: extract helper functions
+[2026-11-25 21:56:43] (2/7) chore: remove dead code
