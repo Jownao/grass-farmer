@@ -1078,3 +1078,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-11-22 19:56:09` — docs: improve documentation clarity
 - `2026-11-24 00:16:43` — style: consistent spacing and indentation
 - `2026-11-24 22:43:11` — chore: cleanup unused variables
+- `2026-11-25 21:56:43` — refactor: extract helper functions
