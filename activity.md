@@ -1088,3 +1088,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-11-26 21:52:29` — fix: resolve edge case in input handling
 - `2026-11-26 21:52:29` — refactor: extract helper functions
 - `2026-11-26 21:52:29` — style: format code according to style guide
+- `2026-11-26 21:52:29` — docs: update changelog
