@@ -1087,3 +1087,4 @@
 [2026-11-26 21:52:29] (3/5) style: format code according to style guide
 [2026-11-26 21:52:29] (4/5) docs: update changelog
 [2026-11-26 21:52:29] (5/5) perf: cache repeated lookups
+[2026-11-27 21:35:13] (1/7) refactor: simplify logic
