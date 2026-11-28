@@ -1100,3 +1100,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-11-28 20:30:27` — fix: handle null values properly
 - `2026-11-28 20:30:27` — docs: update README with new details
 - `2026-11-28 20:30:27` — fix: minor bug fixes and improvements
+- `2026-11-28 20:30:27` — fix: correct off-by-one error
