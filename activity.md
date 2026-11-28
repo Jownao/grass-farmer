@@ -1097,3 +1097,4 @@ This file is updated automatically by the GitHub Actions workflow.
 - `2026-11-27 21:35:13` — perf: cache repeated lookups
 - `2026-11-27 21:35:13` — refactor: rename variables for clarity
 - `2026-11-27 21:35:13` — chore: update dependencies
+- `2026-11-28 20:30:27` — fix: handle null values properly
